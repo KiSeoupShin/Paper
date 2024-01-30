@@ -4,7 +4,7 @@
 <br/>
 
 ## 해당 project의 목표
-각종 논문의 Architecture를 직접 구현
+각종 논문의 Architecture를 직접 구현  
 BackBone, Neck, Head를 각각 구현하여 사용자가 원하는 대로 모델을 골라서 사용할 수 있도록 모듈화 하는 것
 
 <br/>

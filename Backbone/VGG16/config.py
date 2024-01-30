@@ -1,0 +1,6 @@
+DATA_ROOT = '../data'
+BATCH_SIZE = 256
+CLASS = 10
+DEVICE ='cuda'
+LEARNING_RATE = 0.01
+EPOCH = 5
